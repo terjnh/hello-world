@@ -1,2 +1,5 @@
 # hello-world
-Just a testing repository
+
+Testing...
+
+A little bit about myself.
